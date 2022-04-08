@@ -25,7 +25,7 @@ $ ninja -C builddir
 ## Usage
 ***
 > script
-$ ./builddir/42sh path/*.sh
+$ ./builddir/42sh *.sh
 
 > argument 
 $ ./builddir/42sh -c "..."
