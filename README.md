@@ -24,13 +24,13 @@ $ ninja -C builddir
 ```
 ## Usage
 ***
-> script
+- script:
 $ ./builddir/42sh *.sh
 
-> argument 
+- argument:
 $ ./builddir/42sh -c "..."
 
-> input
+- input:
 $ ./builddir/42sh
 $ 42sh$ ...
 $ 42sh$ exit -> to quit
