@@ -32,5 +32,5 @@ $ ./builddir/42sh -c "..."
 
 > input
 $ ./builddir/42sh
-42sh$ ...
-42sh$ exit -> to quit
+$ 42sh$ ...
+$ 42sh$ exit -> to quit
